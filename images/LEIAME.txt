@@ -1,0 +1,9 @@
+Para adicionar novos certificados com diferentes backgrounds, basta colar aqui o arquivo PNG de background e seguir a nomeação de acordo com o ID do seminário. 
+
+Ex. 
+1- Buscar o ID do seminário no próprio sistema
+2- Substituir o X do nome do arquivo de background pelo id do seminário. 
+ a. frente-seminario-id-X.png
+ b. verso-seminario-id-X.png 
+
+Obs.: É importante ter as duas imagens do certificado, frente e verso.

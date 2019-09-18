@@ -1,0 +1,5 @@
+Austria;Vienna;83,859;8,075
+Belgium;Brussels;30,518;10,192
+Denmark;Copenhagen;43,094;5,295
+Finland;Helsinki;304,529;5,147
+France;Paris;543,965;58,728
